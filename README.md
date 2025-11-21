@@ -56,5 +56,3 @@ Réalisé par : Raed Zayoud
 
 - Travail réalisé seul
 - Variables importantes: `JWT_SECRET`, `DB_*`, `BASE_URL`, `UPLOAD_DIR`.
-- Les erreurs sont retournées en JSON, aucune stack trace en production.
-- Le code inclut une validation minimale côté backend via `express-validator`.

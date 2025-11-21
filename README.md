@@ -49,7 +49,6 @@ Réalisé par : Raed Zayoud
 ## Décisions techniques
 
 - ORM: Sequelize (MySQL) pour accélérer les relations et validations basiques.
-- Vite + React pour un front léger et rapide.
 - Sécurité: bcrypt pour hash mots de passe, JWT pour sessions stateless, CORS restreint au front local.
 
 ## Notes
